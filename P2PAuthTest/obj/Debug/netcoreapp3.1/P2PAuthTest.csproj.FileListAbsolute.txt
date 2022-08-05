@@ -1,0 +1,13 @@
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\bin\Debug\netcoreapp3.1\P2PAuthTest.exe
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\bin\Debug\netcoreapp3.1\P2PAuthTest.deps.json
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\bin\Debug\netcoreapp3.1\P2PAuthTest.runtimeconfig.json
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\bin\Debug\netcoreapp3.1\P2PAuthTest.runtimeconfig.dev.json
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\bin\Debug\netcoreapp3.1\P2PAuthTest.dll
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\bin\Debug\netcoreapp3.1\P2PAuthTest.pdb
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\obj\Debug\netcoreapp3.1\P2PAuthTest.csprojAssemblyReference.cache
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\obj\Debug\netcoreapp3.1\P2PAuthTest.AssemblyInfoInputs.cache
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\obj\Debug\netcoreapp3.1\P2PAuthTest.AssemblyInfo.cs
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\obj\Debug\netcoreapp3.1\P2PAuthTest.csproj.CoreCompileInputs.cache
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\obj\Debug\netcoreapp3.1\P2PAuthTest.dll
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\obj\Debug\netcoreapp3.1\P2PAuthTest.pdb
+C:\Users\stick\RiderProjects\P2PAuthTest\P2PAuthTest\obj\Debug\netcoreapp3.1\P2PAuthTest.genruntimeconfig.cache

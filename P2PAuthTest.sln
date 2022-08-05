@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PAuthTest", "P2PAuthTest\P2PAuthTest.csproj", "{9DC1E6C3-258B-47C2-B8A5-F92C6BC63FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC1E6C3-258B-47C2-B8A5-F92C6BC63FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC1E6C3-258B-47C2-B8A5-F92C6BC63FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC1E6C3-258B-47C2-B8A5-F92C6BC63FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC1E6C3-258B-47C2-B8A5-F92C6BC63FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
